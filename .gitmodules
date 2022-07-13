@@ -4,3 +4,6 @@
 [submodule "themes/hugo-fresh"]
 	path = themes/hugo-fresh
 	url = https://github.com/StefMa/hugo-fresh.git
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = https://github.com/google/docsy.git
