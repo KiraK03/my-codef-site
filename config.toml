@@ -1,7 +1,7 @@
 title = "Notre-Dame de Paris"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
-theme = "docsy"
+theme = "hugo-paper"
 resourceDir = "resources"
 themesDir = "themes"
 
