@@ -35,5 +35,5 @@ custom_css = ["css/my-styles.css"]
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/keerthanna-kuyalavanathan-5b41621b1/"
